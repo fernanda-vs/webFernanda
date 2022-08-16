@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J-Hope</title>
+
+    <style>
+        .cabecalho{ 
+            background-image: url("hopeworld.jpg");
+            filter: grayscale(100%);
+            background-size: 1018.4px x 208.1px;
+            background-repeat: no-repeat
+            color: #fff;
+        }
+        #texto1 {
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+        .corpo{
+            text-align: center;
+        }
+        #textocorpo {
+            text-align: justify;
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cabecalho">
+        <center><h1>Jung Hoseok</h1></center>
+        <center><h1>J-Hope</h1></center>
+        <p id="texto1" class="cabecalho">
+        Jung Hoseok (hangul: 정호석) nascido em 18 de fevereiro de 1994, mais conhecido na carreira musical por seu nome artístico J-Hope 
+        (hangul: 제이 홉; estilizado como j-hope), é um rapper, dançarino, compositor e produtor musical sul-coreano.<br/> Ele é popularmente conhecido 
+        por ser integrante do grupo masculino BTS.<br/><br/>
+        </p>
+        </center>
+    </div>
+
+    <div class="corpo">
+        <img src="jhope.jpg" alt="J-Hope" width="340" height="500">
+        <p id="textocorpo" class="corpo">
+            J-Hope trabalhava no cenário underground da sua cidade natal, GwangJu, como dançarino de street dance, fazendo parte de um grupo 
+            chamado Neuron, ganhando prêmios em algumas competições locais, adquirindo experiência:
+            "Ao promover o underground com a minha equipe de dança de rua, eu fiz muito popping. Em popping, há outro sub-gênero chamado 
+            Boogaloos e foi o que eu mais fiz."<br/>
+            Em 20 de dezembro de 2009, J-Hope realizou uma audição que a JYP, fez em sua cidade natal, ficando na posição de número 200. Em 21 de 
+            fevereiro de 2010 ele tentou novamente e desta vez ficou na posição 28, passando assim para a próxima fase. Ele e outros três 
+            candidatos ganharam o "prêmio de popularidade" para esta competição de audição de trainees da JYP. Como vencedores do prêmio, eles 
+            receberam uma bolsa de estudos de um ano para a Escola de Belas Artes e Música de Seul e 300 mil wons, mas J-Hope não aceitou, pois 
+            apesar do prêmio, ele ainda não tinha concluído o seu ensino médio, e a empresa não oferecia um contrato. No entanto, alguns meses 
+            depois, uma empresa menor e mais nova ofereceu-lhe um contrato.<br/> 
+            J-Hope escolheu se tornar um trainee com a Big Hit em 10 de dezembro de 2010 e mudou-se para os dormitórios na véspera de Natal, 2 
+            semanas depois. J-Hope confessou em 2014, relembrando os tempos difíceis:<br/>
+            "Depois de assinar um contrato com minha empresa... eu pensei: 'Eles são tão legais. Há esse tipo de pessoa na minha empresa', 
+            depois que RM e Suga Hyung foram revelados. Eu me mudei para o dormitório em dezembro, mas havia realmente uma grande diferença. Minha 
+            esperança de vida de trainee estava quebrada".<br/>
+            Sobre a sua capacidade de compôr, J-Hope credita a influência que seu pai (professor de literatura) teve em seu gosto por filmes, livros e programas de televisão, bem como sua capacidade de escrever letras. Hoje, além de dançarino principal do grupo e ajudar na criação das coreografias, é rapper e compositor.
+            Em 13 de junho de 2013, J-hope fez sua estréia como membro do BTS em Mnet M! Countdown com a faixa "No More Dream" de seu álbum de estreia 2 Cool 4 Skool.[7] Atualmente, produz músicas para o grupo junto com RM, Suga e Jungkook. No dia 1 de Março de 2018 J-hope lançou sua primeira MIXTAPE intitulada "Hope World".</p>
+    </div>
+
+   <p></p>
+</body>
+</html>
