@@ -1,2 +1,2 @@
 # webFernanda
-Arquivos referêntes aos requisitos para conclusão da disciplina de web I
+Este projeto faz parte dos requisitos para conclusão da disciplina de web I
