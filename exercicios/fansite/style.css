@@ -2,10 +2,10 @@ body{
     background-color: #757575;
 }
 
-.cabecalho{
+.topo{
+    background-image: url("LYcapa.jpg");
     color: #fff;
     text-align: center;
-    background-image: url("redLYcapa.jpg");
     background-size: 500px;
     filter: grayscale(100%);
 }
@@ -30,14 +30,14 @@ body{
     margin-right: 200px;
 }
 .discografia{
-    position: relative;
-    left: 200px;
+    margin-left: 400px;
+    margin-bottom: 20px;
 }
 .imgjbox{
     float: right;
-    margin-right: 200px;
+    margin-right: 400px;
 }
 .hopeworld{
     float: right;
-    margin-right: 200px;
+    margin-right: -220px;
 }
