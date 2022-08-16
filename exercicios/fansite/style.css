@@ -1,3 +1,5 @@
+*{margin: 0; padding: 0;}
+
 body{
     background-color: #757575;
 }
@@ -9,9 +11,10 @@ body{
     background-size: 500px;
     filter: grayscale(100%);
 }
-#resumo{
+.resumo{
     margin-left: 50px;
     margin-right: 50px;
+    font-size: 18px;
 }
 .jhope{
     text-align: center;
@@ -32,6 +35,9 @@ body{
 .discografia{
     margin-left: 400px;
     margin-bottom: 20px;
+}
+.albuns{
+    margin-bottom: 30px;
 }
 .imgjbox{
     float: right;
