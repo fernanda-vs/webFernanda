@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(216, 213, 213);
+}
+.topnav{
+    background-color: rgb(31, 30, 30);
+    size: 100%;
+    padding: 10px;
+}
+a:link{
+    color: white;  
+    text-decoration: none;
+    text-align: center;
+    padding-left: 14px;
+}
+.header{
+    display: inline-block;
+    position: relative;
+}
+.titulo-principal{
+    position: absolute;
+    top: 370px;
+    left: 300px;
+    font-size: 200px;
+    color: white;
+}
+.row{
+    background-color: white;
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+}
+.preco{
+    background-color: gray;
+    float: right;
+    margin-right: 20px;
+    padding: 5px;
+    border-radius: 10%;
+}
+.footer{
+    background-color:rgb(174, 174, 174) ;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0px 10px 0px;
+}
