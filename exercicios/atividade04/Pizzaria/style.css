@@ -28,6 +28,9 @@ a:link{
     margin-top: 20px;
     padding: 10px 10px 10px 10px;
 }
+.listas{
+    list-style: none;
+}
 .preco{
     background-color: gray;
     color: white;
