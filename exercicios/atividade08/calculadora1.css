@@ -1,15 +1,24 @@
 .grid-container{
     display: grid;
-    grid-template-columns: auto auto auto;
-    column-gap: 2px;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
     background-color: aquamarine;
-    padding: 10px;
+    padding: 50px 50px 50px 50px;
 }
 
 div {
     color: white;
     background-color: black;
-    border: 3px solid;
     font-size: 30px;
     text-align:  center;
+}
+
+.g17{
+    grid-column: 4;
+    grid-row-start: 4;
+    grid-row-end: 6;
+}
+.g18{
+    grid-column-start: 2;
+    grid-column-end: 4;
 }
