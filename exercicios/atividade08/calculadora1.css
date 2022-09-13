@@ -1,25 +1,29 @@
 .grid-container{
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: 100px 100px 100px 100px;
     gap: 20px;
-    background-color: aquamarine;
-    padding: 50px 150px 50px 150px;
+    background-color: white;
+    padding: 100px 500px 100px 500px;
 }
 
 div {
     color: white;
     background-color: black;
-    font-size: 30px;
-    text-align:  center;
-    border-radius: 5%;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 10px;
+    padding: 5px 5px 10px 20px;
+    border-radius: 20px;
 }
 
-.g17{
+.enter{
+    text-align: center;
     grid-column: 4;
     grid-row-start: 4;
     grid-row-end: 6;
+
 }
-.g18{
+.t0{
     grid-column-start: 2;
     grid-column-end: 4;
 }
